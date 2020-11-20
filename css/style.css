@@ -18,8 +18,8 @@ ul{
 header{
   background: #353637;
   color: #ffffff;
-  padding-top: 30px;
-  min-height: 70px;
+  padding-top: 20px;
+  min-height: 60px;
   border-bottom: #32a0c2 3px solid;
 }
 header a{
@@ -70,8 +70,8 @@ header a:hover{
 }
 
 footer{
-  padding: 20px;
-  margin-top: 20px;
+  padding: 5px;
+  margin-top: 5px;
   color: #ffffff;
   background-color: #32a0c2;
   text-align: center;
