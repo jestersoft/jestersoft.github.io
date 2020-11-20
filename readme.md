@@ -1,1 +1,4 @@
-https://medium.com/codingthesmartway-com-blog/build-a-real-world-html5-css3-responsive-website-from-scratch-afc079f8bb6b
+# Jestersoft website
+This is the  website of Jestersoft. It's build with just HTML and CSS.
+
+It's meant to be hosted on Github Pages
